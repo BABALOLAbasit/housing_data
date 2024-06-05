@@ -2,6 +2,13 @@
 
 ## Housing data cleaning project
 
+## Table of Content
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [Key Queries and Processes](#key-queries-and-processes)
+- [Conclusion](#conclusion)
+- [Repository Contents](#repository-contents)
+
 ### Introduction
 
 This project focuses on the process of cleaning and transforming a dataset using SQL. The dataset used in this project is from Nashville Housing and involves various tasks such as standardizing date formats, populating missing address data, splitting combined address fields into individual components, handling data inconsistencies, and removing duplicate records. The ultimate goal is to ensure the dataset is clean, accurate, and ready for analysis, which is crucial for making informed business decisions.
